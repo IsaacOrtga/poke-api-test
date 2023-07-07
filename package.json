@@ -1,0 +1,22 @@
+{
+  "name": "test_pokeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-install": "^2.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}

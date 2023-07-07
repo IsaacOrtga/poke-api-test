@@ -1,0 +1,43 @@
+{
+    "accuracy": 100,
+    "contest_combos": {},
+    "contest_effect": {},
+    "contest_type": {},
+    "damage_class": {},
+    "effect_chance": null,
+    "effect_changes": [],
+    "effect_entries": [
+    {
+    "effect": "Inflicts regular damage.",
+    "language": {
+    "name": "en",
+    "url": "https://pokeapi.co/api/v2/language/9/"
+    },
+    "short_effect": "Inflicts regular damage with no additional effect."
+    }
+    ],
+    "flavor_text_entries": [],
+    "generation": {},
+    "id": 1,
+    "learned_by_pokemon": [],
+    "machines": [],
+    "meta": {},
+    "name": "pound",
+    "names": [],
+    "past_values": [],
+    "power": 40,
+    "pp": 35,
+    "priority": 0,
+    "stat_changes": [],
+    "super_contest_effect": {
+    "url": "https://pokeapi.co/api/v2/super-contest-effect/5/"
+    },
+    "target": {
+    "name": "selected-pokemon",
+    "url": "https://pokeapi.co/api/v2/move-target/10/"
+    },
+    "type": {
+    "name": "normal",
+    "url": "https://pokeapi.co/api/v2/type/1/"
+    }
+}
